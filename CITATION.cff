@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it.
+title: "HYDRA-GENESIS Zero (HGZ-0)"
+version: 0.1.0-genesis-zero
+authors:
+  - family-names: Vazquez Martinez
+    given-names: Luis Angel
+    orcid: https://orcid.org/0009-0006-8163-3759
+date-released: 2026-08-20
+license: AGPL-3.0-or-later
+repository-code: https://github.com/robinmacv2-ui/hydra-genesis-zero
