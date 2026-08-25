@@ -12,6 +12,21 @@ Python 3.11 · **stdlib only** · Zero third-party deps · Zero banking · Zero 
 
 ---
 
+## 📜 Autoria y Propiedad Intelectual
+
+**Autor y Titular:** Luis Angel Vazquez Martinez  
+[![ORCID iD](https://img.shields.io/badge/ORCID-0009--0006--8163--3759-green?style=flat&logo=orcid)](https://orcid.org/0009-0006-8163-3759)
+[![INDAUTOR](https://img.shields.io/badge/INDAUTOR-03--2026--081813295300--01-blue?style=flat&logo=shield)](https://orcid.org/0009-0006-8163-3759)
+
+### 🛡️ Registro Oficial de Derechos de Autor
+* **Obra / Proyecto:** ROMEO-HYDRA (Marco Ontológico, Sistema y Código Fuente de Gobernanza y Auditoría de IA)
+* **Número de Registro:** `03-2026-081813295300-01`
+* **Fecha:** 24 de Agosto de 2026
+* **Rama:** Programas de Computación
+* **Titularidad:** 100% Propiedad Intelectual de Luis Angel Vazquez Martinez
+
+---
+
 ## Jury path (≤ 60 seconds)
 
 ```bash
